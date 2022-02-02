@@ -1,0 +1,12 @@
+/site/.env.local
+/site/.env
+/site/.env.local.php
+/site/.env.*.local
+/site/config/secrets/prod/prod.decrypt.private.php
+/site/public/bundles/
+/site/var/
+/site/vendor/
+/docker/mysql/data
+
+/site/.phpunit.result.cache
+/site/phpunit.xml
